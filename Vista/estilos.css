@@ -1,0 +1,104 @@
+
+        body {
+            background: #12c2e9;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
+            height: 100vh;
+           font-family: 'Manjari', sans-serif;
+           font-size: 1.2em;
+        }
+
+       
+
+   
+
+
+        input[type=button], input[type=submit] {
+                 cursor: pointer;
+             }
+
+        span {
+            font-size: 12px;
+        }
+
+        h1 {
+            text-align: center;
+            
+            padding-top: 50px;
+        }
+
+        td {
+            padding: 3px;
+            text-align: center;
+        }
+
+
+        .centrado {
+            border: 2px solid red;
+        }
+
+        .primera_fila {
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: underline;
+            background-color: brown;
+            border: 2px solid rgb(3, 59, 104);
+            text-align: center;
+
+        }
+
+
+
+        .normal {
+            font-size: 14px;
+            background-color: aquamarine;
+            border: 2px solid black;
+            text-align: center;
+        }
+
+        h6 {
+
+            font-size: 25px;
+            text-align: center;
+            color: #bc2e1e;
+            text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4;
+        }
+
+        .divisor {
+            display: inline;
+            border-bottom: 4px groove #abfcbd;
+            border-radius: 3px;
+            font-size: 30px;
+            padding: 5px;
+
+        }
+
+        .primera_fila2 {
+            font-size: 20px;
+            font-weight: bold;
+            background-color: brown;
+            border: 2px solid rgb(3, 59, 104);
+            text-align: center;
+
+        }
+
+        a {
+            color: #000000;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #bc2e1e;
+        }
+
+        table,
+        td {
+            margin: auto;
+            border: 2px ridge dodgerblue;
+        }
+
+        @media screen and (max-width: 768px) {
+            table {
+                width: 400px;
+            }
+        }

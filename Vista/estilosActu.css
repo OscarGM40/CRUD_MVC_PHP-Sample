@@ -1,0 +1,61 @@
+
+h1 {
+    padding-top: 60px;
+    text-align: center;
+}
+
+table {
+    width: 25%;
+    border: none;
+    margin: auto;
+}
+
+body {
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+   }
+   td {text-align: center;}
+
+#ide {
+    padding-top: 16px ;
+    
+    text-align: center;  
+    font-size: 1.17em;
+    position: relative;
+    right: -20px;
+    border-radius: 5px;
+}
+input[type=submit] {
+
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px black;
+}
+
+#volver {
+    text-decoration: none;
+    display: inline-block;
+    background: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+    padding: 3px 7px 2px 7px;
+    color: black;
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    right: -65px;
+
+}
+a {
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
