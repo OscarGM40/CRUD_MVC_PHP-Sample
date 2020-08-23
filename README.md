@@ -3,4 +3,4 @@ Practica de un CRUD realizado en PHP bajo el patrón MVC usando Paginacion y Boo
 
 The pictures are self-identificatives. Just a little practice using MySQL, WampServer, Bootstrap and ModelView Controller pattern.
 Thnks for watching this
-![alt text](https://github.com/[OscarGM40]/[CRUD_MVC_PHP-Sample]/blob/[master]/VistaHTMLPagina1.png?raw=true)
+![alt text](VistaHTMLPagina1.png?raw=true)
